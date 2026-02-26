@@ -32,7 +32,6 @@ gathered and a report was created based on this data. The report follows **NIST'
 
 You can view the report under the name [Incident report NIST CSF][report3].  
 
-[1]: https://www.coursera.org/account/accomplishments/certificate/YBNF7EJN7ULK
 [report1]: https://github.com/ItaloHugoMDS/Incident_Reports/blob/main/Security%20incident%20report.pdf "Report - Prompt 1"
 [log]: https://github.com/ItaloHugoMDS/Incident_Reports/blob/main/Traffic%20log.pdf "Data log - Prompt 1"
 [report2]: https://github.com/ItaloHugoMDS/Incident_Reports/blob/main/Security%20risk%20assessment%20report.pdf "Report - Prompt 2"
