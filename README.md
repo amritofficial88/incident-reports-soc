@@ -2,7 +2,7 @@
 
 This repository displays skill showcases for the cybersecurity activity of reporting incidents.  
 The prompts and the data logs for these showcases were taken from the [Google Cybersecurity Professional Certificate][1]
-lab's activities. However, the incident reports were developed and written by the author of this repository.  
+lab's activities. However, the incident reports were developed and written by me.  
 
 ### Prompt 1  
 
